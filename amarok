@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Volkswagen Amarok</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="header">
+    <h1>Volkswagen Amarok</h1>
+  </div>
+  <div id="content">
+    <img src="amarok.jpg" alt="Volkswagen Amarok">
+    <button type="button" class="btn btn-primary">Comprar</button>
+  </div>
+  <div id="footer">
+    <p>Copyright &copy; 2023 Volkswagen</p>
+  </div>
+</body>
+</html>
